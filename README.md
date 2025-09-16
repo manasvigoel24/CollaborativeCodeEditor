@@ -27,13 +27,13 @@ CodeSync is a real-time code collaboration web application that allows multiple 
 
 ## Development
 
-If you want to run CodeCast locally or contribute to its development, follow these steps:
+If you want to run CodeSync locally or contribute to its development, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/codesync.git
-   cd codecast
+   git clone https://github.com/yourusername/CodeSync.git
+   cd CodeSync
    ```
 2. Install dependencies:
    ```
