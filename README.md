@@ -32,7 +32,7 @@ If you want to run CodeSync locally or contribute to its development, follow the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CodeSync.git
+   git clone https://github.com/yourusername/CollaborativeCodeEditor.git
    cd CodeSync
    ```
 2. Install dependencies:
